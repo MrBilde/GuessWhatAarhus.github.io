@@ -1,15 +1,21 @@
 ---
 title: This is my third post
-description: Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+description: Iterative approaches to corporate strategy foster collaborative thinking
+  to further the overall value proposition. Organically grow the holistic world view
+  of disruptive innovation via workplace diversity and empowerment.
 date: 2020-09-03
 author: Surjith S M
 tags:
-  - second-tag
----
+- second-tag
 
+---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+
+Some image:
+
+![](/static/img/forestry.png)
 
 ## h2 Heading
 
@@ -23,7 +29,7 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 ## Horizontal Rules
 
----
+***
 
 ## Emphasis
 
@@ -49,27 +55,26 @@ _This is italic text_
 
 Unordered
 
-- Create a list by starting a line with `+`, `-`, or `*`
-- Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    - Ac tristique libero volutpat at
+* Create a list by starting a line with `+`, `-`, or `*`
+* Sub-lists are made by indenting 2 spaces:
+  * Marker character change forces new list start:
+    * Ac tristique libero volutpat at
     * Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-- Very easy!
+    * Nulla volutpat aliquam velit
+* Very easy!
 
 Ordered
 
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
-
 4. You can use sequential numbers...
 5. ...or keep all the numbers as `1.`
 
 Start numbering with offset:
 
-57. foo
-1. bar
+1. foo
+2. bar
 
 ## Code
 
@@ -84,9 +89,7 @@ Indented code
 
 Block code "fences"
 
-```
-Sample text here...
-```
+    Sample text here...
 
 Syntax highlighting
 
@@ -100,11 +103,11 @@ console.log(foo(5));
 
 ## Tables
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
+| Option | Description |
+| --- | --- |
+| data | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext | extension to be used for dest files. |
 
 ## Links
 
@@ -116,4 +119,4 @@ Autoconverted link https://github.com/nodeca/pica
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png "Minion")
