@@ -4,10 +4,26 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Pages
+- type: directory
+  path: src/posts
+  label: Posts
+  create: all
+  match: "**/*.md"
+- type: heading
+  label: Data
+- type: document
+  path: src/_data/settings.yaml
+  label: Setting
+  match: "**/*"
+- type: document
+  path: src/_data/quicklinks.yaml
+  label: Links
+  match: "**/*"
 - type: document
   path: src/_data/navigation.yaml
   label: Menu
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
