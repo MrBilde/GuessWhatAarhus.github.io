@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "npm-run-all --parallel css eleventy browsersync",
-    "start-forestry": "npm-run-all build start"
+    "start-forestry": "npm-run-all build start",
     "eleventy": "eleventy --watch",
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.css --o _site/static/css/style.css --watch",
