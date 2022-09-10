@@ -16,11 +16,9 @@ sections:
 - type: document
   path: src/_data/settings.yaml
   label: Setting
-  match: "**/*"
 - type: document
   path: src/_data/quicklinks.yaml
   label: Links
-  match: "**/*"
 - type: document
   path: src/_data/navigation.yaml
   label: Menu
