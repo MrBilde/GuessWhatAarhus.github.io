@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "npm-run-all --parallel css eleventy browsersync",
-    "preview": "npm-run-all --parallel css eleventy", // Used for previewing changes on forestry.io
+    "preview-forestry": "npm-run-all --parallel css eleventy",
     "eleventy": "eleventy --watch",
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.css --o _site/static/css/style.css --watch",
