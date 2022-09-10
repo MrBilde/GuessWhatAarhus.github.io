@@ -1,7 +1,8 @@
 {
   "scripts": {
     "start": "npm-run-all --parallel css eleventy browsersync",
-    "preview-forestry": "eleventy --serve --port 8080",
+    "preview-forestry": "npm-run-all build eleventy-serve",
+    "eleventy-serve": "eleventy --serve",
     "eleventy": "eleventy --watch",
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.css --o _site/static/css/style.css --watch",
