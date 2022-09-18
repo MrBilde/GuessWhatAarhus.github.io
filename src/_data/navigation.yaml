@@ -1,14 +1,14 @@
 ---
 items:
   - text: Lyt
-    url: "#"
+    url: "/lyt"
   - text: Book
-    url: "#"
-  - text: Kalender
-    url: "#"
+    url: "/book"
+  - text: Koncerter
+    url: "/koncerter"
   - text: Sangere
     url: "#"
   - text: Om os
-    url: "#"
+    url: "/om-os"
   - text: Kontakt
-    url: '/blog'
+    url: '/kontakt'
