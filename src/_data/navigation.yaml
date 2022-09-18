@@ -1,13 +1,13 @@
 ---
 items:
+  - text: Forside
+    url: "/"
   - text: Lyt
     url: "/lyt"
   - text: Book
     url: "/book"
   - text: Koncerter
     url: "/koncerter"
-  - text: Sangere
-    url: "#"
   - text: Om os
     url: "/om-os"
   - text: Kontakt
