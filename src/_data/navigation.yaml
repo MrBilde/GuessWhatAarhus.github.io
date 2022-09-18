@@ -1,12 +1,14 @@
 ---
 items:
-- text: Google Drive
-  url: "#"
-- text: Menu One
-  url: "#"
-- text: Menu Two
-  url: "#"
-- text: Menu Three
-  url: "#"
-- text: Blog
-  url: "/blog"
+  - text: Lyt
+    url: "#"
+  - text: Book
+    url: "#"
+  - text: Kalender
+    url: "#"
+  - text: Sangere
+    url: "#"
+  - text: Om os
+    url: "#"
+  - text: Kontakt
+    url: '/blog'
