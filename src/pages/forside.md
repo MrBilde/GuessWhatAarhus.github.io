@@ -4,13 +4,17 @@ layout: default
 permalink: "index.html"
 ---
 
-<div class="container flex flex-col justify-center items-center mx-auto lg:h-screen">
-  <h1 class="lg:h-1/4">
-    Velkommen til
-    <strong class="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">
-      {{title}}
-    </strong>
-  </h1>
+<div class="container flex flex-col justify-center items-center mx-auto
+  lg:h-screen">
+  <div class="bg-[url('/static/img/gw-hero.jpg')] w-screen h-full bg-local
+  bg-top flex">
+    <h1 class="mx-auto mt-5 underline decoration-amber-500 decoration-8 offset-4
+  bg-clip-text bg-gradient-to-t from-amber-500 to-amber-500 underline text-transparent">
+      <strong>
+        {{title}}
+      </strong>
+    </h1>
+  </div>
   <article class="prose lg:prose-xl">
 
 Guess What! er et flerstemmigt århusiansk a cappella-kor, der har et bredt rytmisk repertoire inden for pop, rock og folk. Vi synger til små koncerter i løbet af året, men kommer også gerne ud og synger til dit private arrangement.
