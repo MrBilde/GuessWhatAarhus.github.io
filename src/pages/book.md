@@ -1,5 +1,0 @@
----
-title: Book
----
-
-Book os!

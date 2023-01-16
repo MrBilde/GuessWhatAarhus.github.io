@@ -4,8 +4,6 @@ items:
     url: "/"
   - text: Lyt
     url: "/lyt"
-  - text: Book
-    url: "/book"
   - text: Koncerter
     url: "/koncerter"
   - text: Om os
