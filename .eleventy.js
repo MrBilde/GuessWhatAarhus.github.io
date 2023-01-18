@@ -26,6 +26,9 @@ module.exports = function(eleventyConfig) {
 `
 );
 
+  // Emphasize some text using the theme color and strong text.
+  eleventyConfig.addShortcode("emphasize", (text) => `<strong class="text-amber-500">${text}</strong>`);
+
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));

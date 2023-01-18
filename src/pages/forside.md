@@ -5,7 +5,7 @@ hero:
     image: /static/img/gw-hero.jpg
 ---
 
-<strong class="text-amber-500">Guess What!</strong> er et flerstemmigt århusiansk a cappella-kor, der har et bredt rytmisk repertoire inden for pop, rock og folk. Vi synger til små koncerter i løbet af året, men kommer også gerne ud og synger til dit private arrangement.
+{% emphasize "Guess What!" %} er et flerstemmigt århusiansk a cappella-kor, der har et bredt rytmisk repertoire inden for pop, rock og folk. Vi synger til små koncerter i løbet af året, men kommer også gerne ud og synger til dit private arrangement.
 
 Vi er mellem 20-30 sangglade mennesker, der mødes én gang om ugen for at lære noget nyt samt dele vores passion for musik. Alle har vi nemlig det til fælles, at vi bliver glade i låget af at synge – og sådan har det været lige siden koret blev stiftet i 2006.
 
