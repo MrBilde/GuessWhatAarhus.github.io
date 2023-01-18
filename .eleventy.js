@@ -2,7 +2,7 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const htmlmin = require("html-minifier");
 
-module.exports = function (eleventyConfig) {
+module.exports = function(eleventyConfig) {
   // Disable automatic use of your .gitignore
   eleventyConfig.setUseGitIgnore(false);
 
@@ -18,6 +18,13 @@ module.exports = function (eleventyConfig) {
 
   // Add a year shortcode. Insert `{% year %}` in a page to get the current year.
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+
+  // Add a shortcode for adding audio files with playback controls.
+  eleventyConfig.addShortcode("audio", (title, mp3Link) =>
+`
+<span class="font-bold">${title}</span><audio controls><source src="${mp3Link}" type="audio/mpeg" /></audio>
+`
+);
 
   // To Support .yaml Extension in _data
   // You may remove this if you can use JSON
@@ -35,7 +42,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
 
   // Minify HTML
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     // Eleventy 1.0+: use this.inputPath and this.outputPath instead
     if (outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
