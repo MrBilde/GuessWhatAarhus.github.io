@@ -15,4 +15,4 @@ Her er nogle numre, som vi har øvet og fortolker sammen hver mandag eller alene
 {% audio "Nothing else matters af Metalica (teaser)" "https://guess-what.dk/uf/90000_99999/91500/9825177cb3aa186fe291fec9bcb01a93.mp3" %}
  
 Kan du lide det, du hører?
-Og har du måske selv en lille sangfugl i maven? Så meld dig til vores optagelsesprøve, så du chancen for at blive en del af et af Aarhus’ fedeste kor. Du kan læse mere om optagelsesprøven [her](/kontakt).
+Og har du måske selv en lille sangfugl i maven? Så meld dig til vores optagelsesprøve, så du chancen for at blive en del af et af Aarhus’ fedeste kor. Du kan læse mere om optagelsesprøven [her](/bliv-medlem).
