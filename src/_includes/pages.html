@@ -9,9 +9,11 @@ layout: default
 {% endif %}
 
 <div class="container px-6 mt-6 max-w-4xl">
+    {% if not hero %}
     <div class="pb-5 mb-5 border-b border-gray-100">
         <h1 class="text-5xl font-bold">{{title}}</h1>
     </div>
+    {% endif %}
     <article class="my-4 mx-auto prose lg:prose-xl">
         {{ content | safe }}
     </article>
