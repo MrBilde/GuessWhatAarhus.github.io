@@ -1,5 +1,5 @@
 ---
-title: Guess What!
+title: Forside
 permalink: "index.html"
 hero:
     image: /static/img/gw-hero.jpg
