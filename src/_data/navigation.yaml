@@ -6,6 +6,8 @@ items:
     url: "/lyt"
   - text: Koncerter
     url: "/koncerter"
+  - text: Bliv medlem
+    url: "/bliv-medlem"
   - text: Om os
     url: "/om-os"
   - text: Kontakt
