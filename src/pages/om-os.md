@@ -9,14 +9,14 @@ Vi øver hver mandag kl. 19:00-21:30 i sognehuset ved Skt. Lukas kirke, og der e
 
 Vi kan synge helt op til 8-stemmigt, idet vi består af:
 
-1. sopraner
-2. sopraner
-1. alter
-2. alter
-1. tenorer
-2. tenorer
-1. basser
-2. basser
+- første sopran
+- anden sopran
+- første alt
+- anden alt
+- første tenor 
+- anden tenor
+- første bas
+- anden bas
 
 Guess What! er egentlig en sangforening, der er styret af en bestyrelse og af korlederen, men den drivende kraft er så absolut vores medlemmer, der skaber et fantastisk sammenhold og en smittende energi, hver gang vi mødes. Bestyrelsen er udvalgte medlemmer af koret.
 
