@@ -1,7 +1,6 @@
 {
   "scripts": {
-    "start": "npm-run-all --parallel css eleventy browsersync",
-    "preview-forestry": "npm-run-all build eleventy-serve",
+    "start": "tinacms dev -c \"npm-run-all --parallel css eleventy browsersync\"",
     "eleventy-serve": "eleventy --serve",
     "eleventy": "eleventy --watch",
     "debug": "set DEBUG=* & eleventy",
