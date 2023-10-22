@@ -2,14 +2,14 @@
 layout: default
 ---
 
-{% if hero %}
+{% if hero.image %}
 <header
     class="w-full h-96 {{ hero.extraClasses | default('bg-cover bg-top') }} bg-[url('{{ hero.image }}')]">
 </header>
 {% endif %}
 
 <div class="container px-6 mt-6 max-w-4xl">
-    {% if not hero %}
+    {% if not hero.image %}
     <div class="pb-5 mb-5 border-b border-gray-100">
         <h1 class="text-5xl font-bold">{{title}}</h1>
     </div>
