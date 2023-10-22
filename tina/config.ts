@@ -35,7 +35,7 @@ export default defineConfig({
           {
             type: "string",
             name: "permalink",
-            label: "Permalink (must be 'index.html' for the frontpage)"
+            label: "Permalink (must be 'index.html' for the frontpage)",
           },
           {
             type: "object",
@@ -45,20 +45,52 @@ export default defineConfig({
               {
                 type: "image",
                 name: "image",
-                label: "Image"
+                label: "Image",
               },
               {
                 type: "string",
                 name: "extraClasses",
-                label: "Extra CSS classes"
-              }
-            ]
+                label: "Extra CSS classes",
+                list: true,
+              },
+            ],
           },
           {
             type: "rich-text",
             name: "body",
             label: "Body",
             isBody: true,
+          },
+        ],
+      },
+      {
+        name: "navigation",
+        label: "Menu",
+        path: "src/_data",
+        format: "yaml",
+        match: {
+          include: "navigation",
+        },
+        fields: [
+          {
+            name: "items",
+            label: "Menu",
+            type: "object",
+            list: true,
+            fields: [
+              {
+                name: "text",
+                label: "Text",
+                type: "string",
+                required: true,
+              },
+              {
+                name: "url",
+                label: "Link (fx '/kontakt')",
+                type: "string",
+                required: true,
+              },
+            ],
           },
         ],
       },
