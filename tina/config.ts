@@ -94,6 +94,35 @@ export default defineConfig({
           },
         ],
       },
+      {
+        name: "settings",
+        label: "Settings",
+        path: "src/_data",
+        format: "yaml",
+        match: {
+          include: "settings",
+        },
+        fields: [
+          {
+            name: "name",
+            label: "Titel",
+            type: "string",
+            required: true,
+          },
+          {
+            name: "author",
+            label: "Creator",
+            type: "string",
+            required: true,
+          },
+          {
+            name: "url",
+            label: "Website URL",
+            type: "string",
+            required: true,
+          }
+        ],
+      },
     ],
   },
 });
