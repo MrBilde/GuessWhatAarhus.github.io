@@ -1,8 +1,8 @@
 ---
 title: Forside
-permalink: "index.html"
+permalink: index.html
 hero:
-    image: /static/img/gw-hero.jpg
+  image: /static/img/gw-hero.jpg
 ---
 
 {% emphasize "Guess What!" %} er et flerstemmigt århusiansk a cappella-kor, der har et bredt rytmisk repertoire inden for pop, rock og folk. Vi synger til små koncerter i løbet af året, men kommer også gerne ud og synger til dit private arrangement.

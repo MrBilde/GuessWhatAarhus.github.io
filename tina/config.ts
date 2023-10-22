@@ -14,16 +14,16 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "/static/img",
       publicFolder: "_site",
     },
   },
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "page",
+        label: "Pages",
+        path: "src/pages",
         fields: [
           {
             type: "string",
@@ -31,6 +31,28 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "string",
+            name: "permalink",
+            label: "Permalink (must be 'index.html' for the frontpage)"
+          },
+          {
+            type: "object",
+            name: "hero",
+            label: "Hero image",
+            fields: [
+              {
+                type: "image",
+                name: "image",
+                label: "Image"
+              },
+              {
+                type: "string",
+                name: "extraClasses",
+                label: "Extra CSS classes"
+              }
+            ]
           },
           {
             type: "rich-text",
