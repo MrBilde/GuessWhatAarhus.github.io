@@ -39,10 +39,10 @@ module.exports = function(eleventyConfig) {
   });
 
   // Copy Image Folder to /_site
-  eleventyConfig.addPassthroughCopy("./static/img");
+  eleventyConfig.addPassthroughCopy("./static/media/img");
 
   // Copy audio Folder to /_site
-  eleventyConfig.addPassthroughCopy("./static/audio");
+  eleventyConfig.addPassthroughCopy("./static/media/audio");
 
   // Copy favicon to route of /_site
   eleventyConfig.addPassthroughCopy("./src/favicon.ico");
