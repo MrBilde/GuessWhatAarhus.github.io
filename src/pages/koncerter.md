@@ -8,5 +8,4 @@ Detaljer om events kommer på vores [Facebook side](https://www.facebook.com/Gue
 
 ## Kommende koncerter
 
-- 29. maj 2023: Pinsekoncert
-
+* ?. december 2024: Julekoncert
