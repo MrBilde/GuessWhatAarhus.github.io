@@ -17,6 +17,24 @@ jobs:
         with:
           node-version: '16'
 
+      - name: Check if secrets exist 1
+        env:
+          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+        if: ${{ env.TINA_PUBLIC_CLIENT_ID == '' }}
+        run: 'echo TINA_PUBLIC_CLIENT_ID secret not present'
+
+      - name: Check if secrets exist 2
+        env:
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        if: ${{ env.TINA_TOKEN == '' }}
+        run: 'echo TINA_TOKEN secret not present'
+
+      - name: Check if secrets exist 3
+        env:
+          TINA_SEARCH_TOKEN: ${{ secrets.TINA_SEARCH_TOKEN }}
+        if: ${{ env.TINA_SEARCH_TOKEN == '' }}
+        run: 'echo TINA_SEARCH_TOKEN secret not present'
+
       - name: Install dependencies & build
         env:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
