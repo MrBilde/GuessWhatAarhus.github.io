@@ -26,6 +26,20 @@ module.exports = function(eleventyConfig) {
 `
 );
 
+  // Add a shortcode for adding embedded youtube vidoes.
+  // Example: {% youtube "PSY - GANGNAM STYLE(강남스타일) M/V" "9bZkp7q19f0" %}
+  eleventyConfig.addShortcode("youtube", function (caption, id) {
+    return `<figure class="max-w-4xl mx-auto center mt-8 mb-8">
+              <div class="aspect-w-16 aspect-h-9">
+                   <iframe src="https://www.youtube.com/embed/${id}"
+                     frameborder="0"
+                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                     allowfullscreen
+                    title="${caption}"></iframe>
+                 </div>
+            </figure>`;
+  });
+
   // Emphasize some text using the theme color and strong text.
   eleventyConfig.addShortcode("emphasize", (text) => `<strong class="text-amber-500">${text}</strong>`);
 
