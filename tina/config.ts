@@ -41,6 +41,11 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "boolean",
+            name: "draft",
+            label: "Draft",
+          },
+          {
             type: "string",
             name: "permalink",
             label: "Permalink (must be 'index.html' for the frontpage)",
