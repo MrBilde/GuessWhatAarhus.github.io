@@ -2,7 +2,7 @@
 title: Forside
 permalink: index.html
 hero:
-  image: /static/media/385911637_10222345443736265_2527089110113404261_n.jpg
+  image: /static/media/gwcoverbillede2.jpg
   extraClasses:
     - ''
 ---
