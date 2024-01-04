@@ -1,5 +1,5 @@
 ---
-title: Forside
+title: Guess What! - Rytmisk a capella-kor i hjertet af Aarhus
 permalink: index.html
 hero:
   image: ''
