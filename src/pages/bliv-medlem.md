@@ -27,11 +27,7 @@ Til optagelsesprøven vil du blive bedt om at synge en sang af eget valg, og du 
 
 Du kan [melde dig til optagelsesprøven her](/kontakt).
 
-Næste optagelsesprøve finder sted d. **22. januar 2024.**
-
-***LIGE NU** søger vi især **TENORER** og **BASSER** f.o.m. den kommende 2024-forårssæson, *men alle er velkomne til at ansøge, da vi er fleksible med antallet af medlemmer, så hvis den helt rigtige er der, kan vi sikkert finde en ekstra plads.
-
-Skriv gerne i din tilmelding, hvilken stemmegruppe du normalt synger eller tænker, du gerne vil synge i Guess What!
+**LIGE NU** søger vi **TENORER** og **BASSER**.
 
 Når du har tilmeldt dig optagelsesprøven, modtager du en mere udførlig beskrivelse af prøvens indhold og forløb.
 
