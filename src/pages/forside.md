@@ -7,7 +7,7 @@ hero:
     - ''
 ---
 
-#### VI SØGER LIGE NU TENORER OG BASSER
+#### &#x20;                                    VI SØGER LIGE NU TENORER OG BASSER 
 
 {% emphasize "Guess What!" %} er et flerstemmigt århusiansk a cappella-kor, der har et bredt rytmisk repertoire inden for pop, rock og folk. Vi synger til små koncerter i løbet af året, men kommer også gerne ud og synger til dit private arrangement.
 
