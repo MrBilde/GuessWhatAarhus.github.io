@@ -8,6 +8,7 @@ Detaljer om events kommer på vores [Facebookside](https://www.facebook.com/Gues
 
 ## Kommende koncerter
 
-* Mandag d. 20. maj 2024, 2. pinsedag: Skt. Lukas Kirkes Pinsegudstjeneste i det fri
-* Juni 2024: Sommerkoncert (præcis dato følger)
-* December 2024: Julekoncert (præcis dato følger)
+* Mandag d. 20. maj 2024, 2. pinsedag: Skt. Lukas Kirkes Pinsegudstjeneste i det fri.
+* Lørdag d. 8. juni 2024: Dobbeltkoncert med koret 'Livsværk' (lokation og tidspunkt følger).
+* Mandag d. 10. juni 2024 kl. 20:00: Sommerkoncert i Skt. Lukas Kirke.
+* December 2024: Julekoncert (præcis dato følger).
