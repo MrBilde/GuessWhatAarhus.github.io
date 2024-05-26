@@ -8,7 +8,11 @@ Detaljer om events kommer på vores [Facebookside](https://www.facebook.com/Gues
 
 ## Kommende koncerter
 
-* Mandag d. 20. maj 2024, 2. pinsedag: Skt. Lukas Kirkes Pinsegudstjeneste i det fri.
-* Lørdag d. 8. juni 2024: Dobbeltkoncert med koret 'Livsværk' (lokation og tidspunkt følger).
-* Mandag d. 10. juni 2024 kl. 20:00: Sommerkoncert i Skt. Lukas Kirke.
-* December 2024: Julekoncert (præcis dato følger).
+* **Venskabskoncert** med koret 'Livsværk'. Lørdag d. 8. juni 2024 kl. 14:00.\
+  Folkehuset Fuglebakken, Morten Eskesens Vej 2, 8210 Aarhus V.
+* **Sommerkoncert.** Mandag d. 10. juni 2024 kl. 20:00. \
+  Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
+* **Julekoncert.** Mandag d. 9. december 2024 kl. 20:00.\
+  Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
+* **Sommerkoncert (2025).** Mandag. d. 2. juni 2025 kl. 20:00.\
+  Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
