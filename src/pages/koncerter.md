@@ -8,10 +8,6 @@ Detaljer om events kommer på vores [Facebookside](https://www.facebook.com/Gues
 
 ## Kommende koncerter
 
-* **Venskabskoncert** med koret 'Livsværk'. Lørdag d. 8. juni 2024 kl. 14:00.\
-  Folkehuset Fuglebakken, Morten Eskesens Vej 2, 8210 Aarhus V.
-* **Sommerkoncert.** Mandag d. 10. juni 2024 kl. 20:00. \
-  Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
 * **Julekoncert.** Mandag d. 9. december 2024 kl. 20:00.\
   Skt. Lukas Kirke. Sankt Lucas Kirkeplads 1, 8000 Aarhus C.
 * **Sommerkoncert (2025).** Mandag. d. 2. juni 2025 kl. 20:00.\
