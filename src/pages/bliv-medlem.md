@@ -17,7 +17,7 @@ Vi er mellem 20-30 medlemmer fordelt på følgende stemmegrupper:
 * første bas
 * anden bas
 
-Kontingentet er pt. 650,- pr. sæson.
+Kontingentet er pt. 750,- pr. sæson.
 
 ## Sådan foregår optagelsesprøven
 
@@ -27,7 +27,7 @@ Til optagelsesprøven vil du blive bedt om at synge en sang af eget valg, og du 
 
 Du kan [melde dig til optagelsesprøven her](/kontakt).
 
-**LIGE NU** søger vi **TENORER** og **BASSER**.
+Til den kommende sæson søger vi **TENORER, BASSER og ALTER**.
 
 Når du har tilmeldt dig optagelsesprøven, modtager du en mere udførlig beskrivelse af prøvens indhold og forløb.
 
